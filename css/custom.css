@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+
+ul {
+    list-style: disc;
+}
+
+ol {
+    list-style: decimal;
+}
+
+.logo-desktop-large {
+    display: none;
+}
+
+@media (min-width: 1300px) {
+    .logo-desktop-large {
+        display: block;
+    }
+
+    .logo {
+        display: none;
+    }
+}
+
+.logo-mobile {
+    width: 120px;
+}
+
+a {
+    color: #0095b6;
+}
+
+.hero-image .hero-text h1,
+.hero-image .hero-text .h1 {
+    font-family: 'Audiowide';
+}
+
+.hero-image .hero-text p,
+.hero-image .hero-text h1 {
+    text-shadow: 2px 2px 3px black;
+}
+
+.hero-image {
+    background-color: #0095b6;
+}
+
+.bg-primary {
+    background-color: #0095b6 !important;
+}
+
+.page-home .hero-image {
+    background-blend-mode: inherit;
+    background-color: #554c4c;
+}
+
+.page-home .hero-image .hero-text p {
+    padding-top: 1em;
+}
+
+.hero-image-setheight {
+    height: 250px;
+}
+
+.header.header-absolute {
+    position: fixed;
+    /* background-color: #ffffffe0; */
+}
+
+.service-summary .service-image {
+    flex: 0 0 80px;
+    margin-right: 0px;
+}
+
+.main-menu>ul>li>a {
+    color: #0095b6;
+}
+
+.main-menu>ul>li.active>a {
+    background: #0095b6;
+}
+
+.main-menu>ul>li>a:hover {
+    background: #0095b6d5;
+}
+
+.button {
+    background: #0095b6;
+}
+
+.button.active {
+    background: #0095b6;
+}
+
+.button:hover {
+    background: #0095b6d5;
+}
+
+.main-menu>ul>li.active>a:hover {
+    background: #0095b6;
+}
+
+.grayboxrounded {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h2,
+.text-primary {
+    color: #0095b6 !important;
+}
+
+.articledate {
+    font-size: smaller;
+    padding-top: 3em;
+}
