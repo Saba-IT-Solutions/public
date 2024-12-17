@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Saba IT Solutions</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.sabaitsolutions.net/</link>
     <description>Recent content in Home on Saba IT Solutions</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Dec 2024 18:13:45 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.sabaitsolutions.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software Development</title>
-      <link>http://localhost:1313/services/softwaredevelopment/</link>
+      <link>https://www.sabaitsolutions.net/services/softwaredevelopment/</link>
       <pubDate>Mon, 16 Dec 2024 17:50:34 +1000</pubDate>
-      <guid>http://localhost:1313/services/softwaredevelopment/</guid>
+      <guid>https://www.sabaitsolutions.net/services/softwaredevelopment/</guid>
       <description>&lt;p&gt;At Saba IT Solutions, we specialize in transforming your business ideas into reality through our meticulous software development process. We are dedicated to delivering customized software solutions that perfectly align with your business goals and needs. Here’s how we ensure your success:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Identify Goals&lt;/strong&gt;: We start by interviewing you to understand your unique business objectives and aspirations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Standard Solutions Assessment&lt;/strong&gt;: Our experts consult with decision-makers to determine if a standard solution can achieve your goals, ensuring efficiency and cost-effectiveness.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Development Plan&lt;/strong&gt;: We create a detailed development plan, clearly outlining the project in straightforward, understandable language.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Client Collaboration&lt;/strong&gt;: Based on your valuable input, we adjust and refine the development plan to ensure it meets your expectations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Software Development&lt;/strong&gt;: Finally, we build the software, bringing your vision to life with precision and expertise.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Choose Saba IT Solutions for a seamless, collaborative, and result-driven software development experience. Let’s take your business to new heights together!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maintenance &amp; Support</title>
-      <link>http://localhost:1313/services/maintenance/</link>
+      <link>https://www.sabaitsolutions.net/services/maintenance/</link>
       <pubDate>Thu, 05 Dec 2024 16:42:39 -0400</pubDate>
-      <guid>http://localhost:1313/services/maintenance/</guid>
+      <guid>https://www.sabaitsolutions.net/services/maintenance/</guid>
       <description>&lt;p&gt;Are you on Saba and in need of top-tier computer maintenance and support? Look no further! With roots dating back to the early 1990s in the Netherlands, our expertise spans decades.&lt;/p&gt;&#xA;&lt;p&gt;Originally, we specialized in selling and servicing Apple computers and peripherals for printing companies and graphic artists. We offered comprehensive maintenance, color correction for screens and printers, backup system advice, and software training, primarily for Adobe and Quark (we have worked with PhotoShop 2.0, Illustrator 3.0). Later, we gained experience in Linux and Microsoft Windows operating systems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hosting</title>
-      <link>http://localhost:1313/services/hosting/</link>
+      <link>https://www.sabaitsolutions.net/services/hosting/</link>
       <pubDate>Mon, 09 Dec 2024 15:33:46 -0400</pubDate>
-      <guid>http://localhost:1313/services/hosting/</guid>
+      <guid>https://www.sabaitsolutions.net/services/hosting/</guid>
       <description>&lt;p&gt;Choosing the right provider for your website can feel overwhelming. With so many factors to consider, it’s not always easy for inexperienced users to navigate. That’s where we come in—we have the expertise to offer you a solution tailored to your needs.&lt;/p&gt;&#xA;&lt;h4 id=&#34;shared-hosting&#34;&gt;Shared Hosting&lt;/h4&gt;&#xA;&lt;p&gt;Our shared hosting environment is ideal for websites with a moderate number of daily visitors. This solution is particularly suitable for small to medium-sized businesses, providing a cost-effective and reliable option.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Websites</title>
-      <link>http://localhost:1313/services/websitedevelopment/</link>
+      <link>https://www.sabaitsolutions.net/services/websitedevelopment/</link>
       <pubDate>Thu, 12 Sep 2024 18:47:54 -0400</pubDate>
-      <guid>http://localhost:1313/services/websitedevelopment/</guid>
+      <guid>https://www.sabaitsolutions.net/services/websitedevelopment/</guid>
       <description>&lt;p&gt;Although under different monikers, we have been developing websites since the 1990s. Over the years, the digital landscape has evolved significantly, and so have we.&lt;/p&gt;&#xA;&lt;p&gt;Our expertise in diverse programming languages and frameworks, including C#, .NET, ASP.NET, PHP, JavaScript, TypeScript, Angular, and NodeJS, allows us to stay ahead of the curve and deliver cutting-edge solutions tailored to your needs.&lt;/p&gt;&#xA;&lt;p&gt;Today, the possibilities for your online presence are virtually limitless. Whether you need a dynamic blog to share regular updates, an internet shop to sell your products, or a custom-built website that showcases your brand, we can deliver the best solution. We are proficient in developing static websites using tools like Hugo, customizing WordPress websites, or building fully bespoke sites from the ground up using PHP or C#. If possible we utilize Open Source software like Dolibarr (ERP) or Prestashop (webshop).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Implementation services</title>
-      <link>http://localhost:1313/services/implementation/</link>
+      <link>https://www.sabaitsolutions.net/services/implementation/</link>
       <pubDate>Mon, 16 Dec 2024 18:13:45 -0400</pubDate>
-      <guid>http://localhost:1313/services/implementation/</guid>
+      <guid>https://www.sabaitsolutions.net/services/implementation/</guid>
       <description>&lt;p&gt;At Saba IT Solutions, we understand that effective software implementation is critical to achieving business success. Our &amp;ldquo;Implementation service&amp;rdquo; ensures that any software or software framework you need is installed and set up according to your unique business requirements.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-implementation-process&#34;&gt;Our Implementation Process&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Comprehensive Assessment&lt;/strong&gt;: We begin by thoroughly understanding your requirements through detailed consultations. We work closely with you to grasp your specific goals and challenges.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Customized Setup&lt;/strong&gt;: Whether it&amp;rsquo;s the robust ERP/CRM capabilities of Dolibarr, the versatile content management features of WordPress, a webshop with Prestashop or any other software solution, we tailor the setup to align perfectly with your business operations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.sabaitsolutions.net/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://www.sabaitsolutions.net/about/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>History</title>
-      <link>http://localhost:1313/history/</link>
+      <link>https://www.sabaitsolutions.net/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>http://localhost:1313/history/</guid>
+      <guid>https://www.sabaitsolutions.net/history/</guid>
       <description>&lt;h1 id=&#34;about-heading&#34;&gt;About Heading&lt;/h1&gt;&#xA;&lt;p&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;strip bg-cover bg-position-center bg-overlay pt-15 pb-15&#34; style=&#34;background-image: url(&#39; https://source.unsplash.com/zglUlG8k47I/1600x500 &#39;);&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;row&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;col-12 col-md-6&#34;&gt;&#xD;&#xA;          &lt;p&gt;Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.&lt;/p&gt;&#xA;&#xD;&#xA;          &#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;strip bg-cover bg-position-center bg-overlay pt-15 pb-15&#34; style=&#34;background-image: url(&#39; https://source.unsplash.com/_v-EHHKKW3w/1600x700 &#39;);&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;row&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;col-12 col-md-6 offset-md-6&#34;&gt;&#xD;&#xA;          &lt;p&gt;Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.&lt;/p&gt;</description>
     </item>
   </channel>
