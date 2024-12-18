@@ -12,6 +12,13 @@ ol {
     display: none;
 }
 
+figcaption H4 {
+    font-size: 1em;
+    font-style: italic;
+    margin-top: 0.5em;
+    text-align: right;
+}
+
 @media (min-width: 1300px) {
     .logo-desktop-large {
         display: block;
