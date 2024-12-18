@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "D:/source/SabaITSolutions/SabaITSolutions.com",
+	"sourceRoot": "D:/source/SabaITSolutions/SabaITSolutions.net",
 	"sources": [
 		"themes/hugo-hero-theme/assets/scss/style.scss",
 		"themes/hugo-hero-theme/assets/scss/_bootstrap-variables.scss",
