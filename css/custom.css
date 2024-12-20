@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide');
 
+body {
+    background-color: #add8e617
+}
+
 ul {
     list-style: disc;
 }
