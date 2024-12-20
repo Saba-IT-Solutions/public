@@ -16,6 +16,10 @@ ol {
     display: none;
 }
 
+.logo-desktop-large img {
+    height: 23px;
+}
+
 figcaption H4 {
     font-size: 1em;
     font-style: italic;
@@ -23,7 +27,8 @@ figcaption H4 {
     text-align: right;
 }
 
-@media (min-width: 1300px) {
+/* @media (min-width: 1300px) { */
+@media (min-width: 768px) {
     .logo-desktop-large {
         display: block;
     }
@@ -46,9 +51,24 @@ a {
     font-family: 'Audiowide';
 }
 
+@media (min-width: 768px) {
+
+    .hero-image .hero-text h1,
+    .hero-image .hero-text .h1 {
+        font-size: 4rem;
+        width: 100%;
+    }
+}
+
 .hero-image .hero-text p,
 .hero-image .hero-text h1 {
     text-shadow: 2px 2px 3px black;
+}
+
+@media (min-width: 768px) {
+    .hero-image .hero-text p {
+        width: 100%;
+    }
 }
 
 .hero-image {
@@ -74,7 +94,6 @@ a {
 
 .header.header-absolute {
     position: fixed;
-    /* background-color: #ffffffe0; */
 }
 
 .service-summary .service-image {
@@ -127,8 +146,5 @@ h2,
 }
 
 .work-image {
-    /* flex: 1 1 auto; */
-    /* padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x); */
-    /* color: var(--bs-card-color); */
     border: 3px solid white;
 }
