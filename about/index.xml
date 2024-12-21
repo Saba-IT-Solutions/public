@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Saba IT Solutions</title>
+    <link>https://www.sabaitsolutions.net/about/</link>
+    <description>Recent content in Abouts on Saba IT Solutions</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Dec 2024 14:30:39 -0400</lastBuildDate>
+    <atom:link href="https://www.sabaitsolutions.net/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://www.sabaitsolutions.net/about/about/</link>
+      <pubDate>Fri, 20 Dec 2024 14:30:39 -0400</pubDate>
+      <guid>https://www.sabaitsolutions.net/about/about/</guid>
+      <description>&lt;h1 id=&#34;john-zandbergen&#34;&gt;John Zandbergen&lt;/h1&gt;&#xA;&lt;p&gt;My name is John. I am Dutch and from the east of the Netherlands. A very long time ago, I studied Computer Science in Enschede. Shortly after obtaining my Bachelor&amp;rsquo;s degree, I started a computer company where our main clients were graphic artists, designers, and offset printers. We sold, installed, and maintained Apple computers, peripherals, and networks. I also created customized software for various customers, gradually including more and more websites.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
