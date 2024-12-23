@@ -148,3 +148,11 @@ h2,
 .work-image {
     border: 3px solid white;
 }
+
+.social p {
+    margin-bottom: 0;
+}
+
+.social p img {
+    height: 1em;
+}
