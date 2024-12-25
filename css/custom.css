@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide');
 
+:root {
+    --bs-body-font-size: 18px;
+}
+
 body {
     background-color: #add8e617
 }
@@ -79,17 +83,23 @@ a {
     background-color: #0095b6 !important;
 }
 
-.page-home .hero-image {
-    background-blend-mode: inherit;
-    background-color: #554c4c;
-}
-
 .page-home .hero-image .hero-text p {
     padding-top: 1em;
 }
 
 .hero-image-setheight {
     height: 250px;
+}
+#homeVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -10
+  }  
+.hero-image-fullscreen {
+  background: transparent;
 }
 
 .header.header-absolute {
