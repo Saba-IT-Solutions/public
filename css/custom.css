@@ -8,6 +8,11 @@ body {
     background-color: #add8e617
 }
 
+body.page-home {
+    background: url(/images/homepagebg.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+
 ul {
     list-style: disc;
 }
@@ -90,6 +95,7 @@ a {
 .hero-image-setheight {
     height: 250px;
 }
+
 #homeVideo {
     position: fixed;
     right: 0;
@@ -97,9 +103,10 @@ a {
     min-width: 100%;
     min-height: 100%;
     z-index: -10
-  }  
+}
+
 .hero-image-fullscreen {
-  background: transparent;
+    background: transparent;
 }
 
 .header.header-absolute {
